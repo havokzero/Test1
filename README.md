@@ -112,7 +112,7 @@ A profile is saved at:
 
 ```json
 {
-  "message": "ZeroDay Labs",
+  "message": "ZDL",
   "use_image": false,
   "image_path": null,
   "image_width": 120,
@@ -177,4 +177,4 @@ Ideas welcome: **new gradients, modes, ASCII image filters, export tweaks**.
 
 ## 📜 License
 
-MIT © 2025 Your Name
+MIT © 2025
