@@ -29,7 +29,7 @@ All-in-one terminal app for gorgeous FIGlet/toilet-style ASCII banners with grad
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<you>/banner-scrambler-ultra.git
+git clone https://github.com/havokzero/banner-scrambler-ultra.git
 cd banner-scrambler-ultra
 pip install -r requirements.txt
 # or install deps directly:
